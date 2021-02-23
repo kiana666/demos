@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4956289",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "6263352",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "10593749",
+      "name": "历史记录_jurassic",
+      "font_class": "jurassic_wait",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    }
+  ]
+}
