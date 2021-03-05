@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1614042620093'); /* IE9 */
+  src: url('iconfont.eot?t=1614042620093#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOwAAsAAAAACBgAAANhAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqDUIMZATYCJAMQCwoABCAFhG0HShsNBxEVnI3Ifh6UcblGGnsU3L5T/DTqj2K/gwfS+3qD5OaSBVUdYC9YHaDWLqnqYwOg/oC35qzaWPgIVZK1I4+2mDwU0sungz/unf5RvkDmsyyXsSaNsbCoCzDeGtDeNhZZgSToLbJ7S7oCeRoCcEiiANGmXZc+GDR4kgDElInjR2IyBnQDWWDUdsVKjdiBhZEb5V3YHnxffK0lDEgsBT6rx7i2Y2jxIfbDPrWiesUQtZKV09kAZR0ooADQICZUOkahonABCsfqr6kHGAwSpuqY9mFfdTWIjqIw5C8PBBIFwgZnBwBQByIKPsQyNgR8mMaGhA/7lDwkrscbIBDYAFeBmFAkMaiQEIVJIjBgn9jQyc6mgzG68JDrbj4irJWHA7NU9IqCeKvo8GJ79iyKjLtw2oLZs5zCY5c2Xzmx8vjlTRePzjz7MKH0Ud1zT5LLHs9IkM07rXy8+OnTPs+e9X3xov/z50Mf9nm6qV/ABd3K/jnbi819K7XPVpQE+wWolYcXQSUSyE1m1fG2D9sgq+SGsPbhG8KrmOp2oAqvegP26Lg64wprFdYZW+j5WXvS3ok/Ca897kDpr/HucU89z/H63kPudKsodJwDlTc3uXGFO/af3Bgft/507qH4gkOkqBbXtNerrxGuwOOSpKDnrb5tEtolllCu32vSpIQ2ie1KEtsntI5LKkitE9svaZfQZswlCApNCA1KCWLcyMkMcF/VTPqpporUykBbEVWLH/obJg9ZPGJ4cJP/xtUAvB00zwOuapruwr8itIS/T9ixQttibNTalDCBM09TDwOABBxihp8WhzDeT6GK7EwGoYpMQFKDRFAYMlBNLAALlzpgY2gODvm0X+8SziwUQtcE8liLQBDCCZAEcQMUIdxDNfEdWETxHWxChAKHfiJ8R5csIXC7k2Ct2EHzB9fyRNSsuzD3jmYZakmLA9obJTgfZHGaj91wQpliTviYXJWAhEe4ovNwGBhmYY+txlZ1LpKEqt4UtzxGO06CtWIHzR9cyxN5tXVX+PwdzTLU0lDW4nyjBNc9ZHHaAb0ppk5lt3JN+JhclYCER7giGw4kzDBXD/PYamwHBOcigWrUVREvrxrfcB3ggPtrIYUSWlisF9X3kTiZVcNU+wuPfpE6BNeW39ppFAEAAAA=') format('woff2'),
+  url('iconfont.woff?t=1614042620093') format('woff'),
+  url('iconfont.ttf?t=1614042620093') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1614042620093#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zanting:before {
+  content: "\e619";
+}
+
+.icon-bofang:before {
+  content: "\e66e";
+}
+
+.icon-jurassic_wait:before {
+  content: "\e696";
+}
+
